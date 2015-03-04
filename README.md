@@ -1,10 +1,6 @@
 # 2d-map-generator-Java
 Simple generator for game level rendering
 Users strategy design pattern
-
-
-# Java-2D-Dungeon-map-maker
-
 Uni Project focusing on map creation using 2D arrays and strategy design pattern.
 As it happens this will come in handy as a quick map generator for a dungeon crawling game im making
 
